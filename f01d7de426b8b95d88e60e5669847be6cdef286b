@@ -1,0 +1,1 @@
+{"jobID":"6f63587a-65c6-7dd9-c234-be54e4061bfa","spec":{"type":"policy","cause":{"Message":"","User":"Diego Krulewietki \u003cdiego.krulewietki@wildlifestudios.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
